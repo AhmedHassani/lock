@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861994067681",
+    "firebase_url": "https://door2-370dd-default-rtdb.firebaseio.com",
+    "project_id": "door2-370dd",
+    "storage_bucket": "door2-370dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861994067681:android:346a5b57ddf06c24d0b9a0",
+        "android_client_info": {
+          "package_name": "com.example.door2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861994067681-mgcala8c9hpmeqhvuiu8ef9qvb1i42dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF89WsQ5xXevvR_Ai7zSBxBwicU5rrGTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861994067681-mgcala8c9hpmeqhvuiu8ef9qvb1i42dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
